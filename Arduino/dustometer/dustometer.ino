@@ -3,6 +3,11 @@
 int MICROS_LED_IMPULSE = 320; //micros
 int MICROS_READ_DELAY = 280; //micros
 int MICROS_CYCLE_DELAY = 10000; //ms
+int GREEN_LED_PIN = D8; 
+int RED_LED_PIN = D7; 
+float ALERT_TRESHOLD = 250.0/255;
+float GREEN_TRESHOLD = 70.0/255;
+
 
 int LED_ON_PIN = D2;
 int DUST_SENSOR_IN_PIN = A0;
@@ -17,9 +22,14 @@ SimpleKalmanFilter simpleKalmanFilter(0.1, 1, 0.005);
 void setup() {
   // put your setup code here, to run once:
   pinMode(LED_ON_PIN, OUTPUT);
+  pinMode(GREEN_LED_PIN, OUTPUT);
+  pinMode(RED_LED_PIN, OUTPUT);
   pinMode(DUST_SENSOR_IN_PIN, INPUT);
   pinMode(OUT_VALUE_PIN, OUTPUT);
   Serial.begin(115200);
+
+  digitalWrite(GREEN_LED_PIN, HIGH);
+  digitalWrite(RED_LED_PIN, LOW);
 
 }
 
@@ -44,6 +54,8 @@ void loop() {
   
   if (millis() > refresh_time) {
 
+    digitalWrite(GREEN_LED_PIN, estimated_value > GREEN_TRESHOLD ? HIGH:LOW); 
+    digitalWrite(RED_LED_PIN,   estimated_value > ALERT_TRESHOLD ? HIGH:LOW);
     
     
     Serial.print(readValue*255,2);
