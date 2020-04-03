@@ -6,6 +6,11 @@
 
 UPD v4 адаптирована под 0.5мм
 
+Ссылка на скачивание:
+---
+
+https://github.com/minsk-hackerspace/madeinmxc/raw/master/face_shield/flop.zip
+
 Два размера:
 ---
 
