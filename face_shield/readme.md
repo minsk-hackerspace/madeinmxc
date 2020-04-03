@@ -6,7 +6,7 @@
 
 UPD v4 адаптирована под 0.5мм
 
-UPD v5 Добавлена оптимальная раскладка под 400x600 от https://github.com/IDukereD
+UPD v5 Добавлена [оптимальная раскладка под 400x600!](https://github.com/minsk-hackerspace/madeinmxc/raw/master/face_shield/face_shield_6040.cdr) от @IDukereD
 
 
 Ссылка на скачивание:
