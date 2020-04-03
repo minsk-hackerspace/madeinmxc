@@ -15,7 +15,7 @@
    version="1.1"
    id="svg1774"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="shield_3.svg">
+   sodipodi:docname="shield_4.svg">
   <defs
      id="defs1768" />
   <sodipodi:namedview
@@ -25,15 +25,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1010943"
+     inkscape:zoom="0.55054715"
      inkscape:cx="476.77089"
-     inkscape:cy="971.18118"
+     inkscape:cy="680.5612"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="2211"
-     inkscape:window-height="1404"
-     inkscape:window-x="1680"
+     inkscape:window-width="1680"
+     inkscape:window-height="1006"
+     inkscape:window-x="-15"
      inkscape:window-y="0"
      inkscape:window-maximized="0" />
   <metadata
@@ -67,7 +67,7 @@
        sodipodi:nodetypes="sccssccss" />
     <g
        id="g9681"
-       transform="translate(-17.999813,30.999748)">
+       transform="matrix(1,0,0,1.2298172,-17.999813,48.049136)">
       <path
          inkscape:connector-curvature="0"
          id="rect9639"
@@ -106,7 +106,7 @@
     </g>
     <g
        id="g914"
-       transform="matrix(0.9,0,0,0.9,24.725014,23.729183)">
+       transform="matrix(0.9,0,0,1.2298157,24.725014,-28.443787)">
       <path
          inkscape:connector-curvature="0"
          id="path9685"
@@ -215,7 +215,7 @@
       </g>
     </g>
     <g
-       transform="translate(-17.999813,5.999748)"
+       transform="matrix(1,0,0,1.2298172,-17.999813,23.049136)"
        id="g956">
       <path
          style="opacity:0.93000034;fill:#451d33;fill-opacity:0.83333333;stroke:none;stroke-width:0.42318591;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
