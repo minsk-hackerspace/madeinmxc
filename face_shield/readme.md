@@ -36,4 +36,4 @@ https://github.com/minsk-hackerspace/madeinmxc/raw/master/face_shield/flop.zip
 
 ![](preview.png)
 
-![](optimal.jpg)
+![](opt.jpg)
