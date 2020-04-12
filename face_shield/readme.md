@@ -6,7 +6,7 @@ Laser cut from PETG sheet 0.5mm
 
 UPD v4 adjusted for 0.5mm
 
-UPD v5 added [optimized schematic for 400x600](https://github.com/minsk-hackerspace/madeinmxc/raw/master/face_shield/face_shield_6040_optimal.dxf) from [@IDukereD](https://github.com/IDukereD)
+UPD v5 added optimized from [@IDukereD](https://github.com/IDukereD)
 
 
 Защитный щиток 
@@ -36,4 +36,4 @@ https://github.com/minsk-hackerspace/madeinmxc/raw/master/face_shield/flop.zip
 
 ![](preview.png)
 
-![](optimal.png)
+![](optimal.jpg)
