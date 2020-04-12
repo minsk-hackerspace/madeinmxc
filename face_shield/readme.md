@@ -18,7 +18,7 @@ UPD v5 added [optimized schematic for 400x600](https://github.com/minsk-hackersp
 
 UPD v4 адаптирована под 0.5мм
 
-UPD v5 Добавлена [оптимальная раскладка под 400x600](https://github.com/minsk-hackerspace/madeinmxc/raw/master/face_shield/face_shield_6040_optimal.dxf) от [@IDukereD](https://github.com/IDukereD)
+UPD v5 Добавлены скругления и оптимальная раскладка под весь лист от [@IDukereD](https://github.com/IDukereD)
 
 
 Ссылка на скачивание: / Link to download:
@@ -36,4 +36,4 @@ https://github.com/minsk-hackerspace/madeinmxc/raw/master/face_shield/flop.zip
 
 ![](preview.png)
 
-![](face_shield_6040_optimal.png)
+![](optimal.png)
